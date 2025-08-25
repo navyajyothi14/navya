@@ -1,0 +1,3 @@
+Name:Navya Jyothi Makireddy
+course:Bsc cs-1
+Creating repository,uploading files,and commit changes.
